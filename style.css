@@ -25,3 +25,41 @@
 .indexcards{
     container-type: center;
 }
+
+.homepage-barbie{
+    background-color: rgb(248, 131, 209);
+}
+
+.img-thumbnail-barbie{
+   width: 20px;
+}
+
+
+
+.img-fluid{
+    height:600px;
+    width:400px;
+    padding:20px;
+    border: 20px;
+}
+
+.movie{
+color:rgb(104, 34, 95);
+font-family: 'Mooli', sans-serif;
+padding:40px;
+}
+
+.cruise{
+    color:blue;
+    font-family: 'Mooli', sans-serif;
+    padding:40px;
+}
+
+.homepage-alaska{
+    background-color: rgb(155, 217, 221);
+}
+
+minute{
+    background-color: #f8edf8;
+    text-align: center;
+}
