@@ -1,0 +1,27 @@
+.nav-link{
+   color: plum;
+   font-family: 'Mooli', sans-serif;
+}
+
+.Summertainment{
+    color:pink;
+    background:white;
+    font-family: 'Mooli', sans-serif;
+}
+
+.heading{
+    color:plum;
+    background:white;
+    font-family: 'Mooli', sans-serif;
+}
+
+.homepage{
+    background: linear-gradient(rgb(255, 208, 243),rgb(239, 159, 255));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.indexcards{
+    container-type: center;
+}
